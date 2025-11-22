@@ -1,0 +1,7 @@
+ID,Date,Title,Customer,Priority,Status,Description
+1763224903070290501,2025-11-15,Create user,tech firm,low,new,I need help creating user account
+1763225018816419323,2025-11-15,Email update,tech4dev,medium,new,I want to update my Email address
+1763225038719564242,2025-11-15,Login failure,Acme Inc,high,new,User cannot login after reset
+1763283929365220957,2025-11-16,Deleting account,K-logistics,low,new,I need help deleting my account
+1763287802371954902,2025-11-16,About Subscription,OOL Motors,low,new,I need info about subscription
+1763717237519644300,2025-11-21,VM Provisioning,MTN Inc,high,new,need help setting up Azure VM 
