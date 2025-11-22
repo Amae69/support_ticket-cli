@@ -1,3 +1,5 @@
+## **Building a Simple Ticket Tracker CLI in Go**
+
 ### A lightweight, command-line alternative to complex ticketing systems.
 
 Using golang and cobra-cli, I built a simple command-line interface for managing support tickets. Tickets are stored locally in a CSV file.
